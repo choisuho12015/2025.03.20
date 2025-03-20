@@ -13,4 +13,6 @@ Github 스타배지
 ![GitHub stars](https://img.shields.io/github/stars/choisuho12015?style=social)
 ![image](https://github.com/user-attachments/assets/dc1be0fe-4eaf-496f-b3bf-4eb63337232c)
 사용자 통계
-![image](https://github.com/user-attachments/assets/963f5e78-9b47-451a-ba56-f4c2849e7cde)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=choisuho12015&show_icons=true&theme=radical)
+![image](https://github.com/user-attachments/assets/73945d71-cf3d-4a7e-a9ae-0aaf9e356a2e)
+
