@@ -8,8 +8,6 @@
  ![GitHub stars](https://img.shields.io/github/stars/choisuho12015?style=social)
 ![image](https://github.com/user-attachments/assets/4a44a15e-8030-48bf-9b87-45881cf72c2d)
 Github 스타배지
-![GitHub stars](https://img.shields.io/github/stars/Emmett6401?style=social)
-![image](https://github.com/user-attachments/assets/7eb6eb6c-d862-476e-be3f-e02039f8081a)
 ![GitHub stars](https://img.shields.io/github/stars/choisuho12015?style=social)
 ![image](https://github.com/user-attachments/assets/dc1be0fe-4eaf-496f-b3bf-4eb63337232c)
 사용자 통계
