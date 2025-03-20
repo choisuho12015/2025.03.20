@@ -5,7 +5,7 @@
 ### 3
 
 ### 팔로워 배지
- (https://img.shields.io/github/followers/choisuho12015?style=social)
+ ![GitHub stars](https://img.shields.io/github/stars/choisuho12015?style=social)
 ![image](https://github.com/user-attachments/assets/4a44a15e-8030-48bf-9b87-45881cf72c2d)
 Github 스타배지
 ![GitHub stars](https://img.shields.io/github/stars/Emmett6401?style=social)
